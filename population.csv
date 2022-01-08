@@ -1,0 +1,224 @@
+country,population
+World,NaN
+United States,333945370
+India,1400568915
+Brazil,214850009
+United Kingdom,68426678
+France,65492529
+Russia,146029357
+Turkey,85714519
+Germany,84190162
+Spain,46782241
+Italy,60326993
+Iran,85622062
+Argentina,45824407
+Colombia,51704871
+Indonesia,277907301
+Poland,37783748
+Mexico,130985855
+Ukraine,43335243
+South Africa,60441841
+Netherlands,17192363
+Philippines,111791127
+Malaysia,32994394
+Czechia,10739108
+Canada,38243763
+Peru,33667794
+Thailand,70065562
+Belgium,11666099
+Iraq,41589027
+Vietnam,98666130
+Romania,19043039
+Chile,19364937
+Japan,125889245
+Bangladesh,167176264
+Portugal,10151618
+Switzerland,8750570
+Israel,9326000
+Greece,10345834
+Sweden,10194737
+Serbia,8683993
+Austria,9084308
+Pakistan,227388027
+Hungary,9623149
+Jordan,10356660
+Kazakhstan,19117072
+Morocco,37573571
+Cuba,11316132
+Georgia,3977554
+Ireland,5021379
+Denmark,5823130
+Australia,25948270
+Slovakia,5463652
+Nepal,29930570
+UAE,10071494
+Bulgaria,6869106
+Lebanon,6779086
+Croatia,4066868
+Tunisia,12006052
+Belarus,9444609
+South Korea,51336095
+Bolivia,11914293
+Guatemala,18417511
+Azerbaijan,10277704
+Sri Lanka,21549381
+Costa Rica,5164628
+Saudi Arabia,35635263
+Ecuador,18048946
+Lithuania,2664668
+Myanmar,54962773
+Panama,4417667
+Slovenia,2079371
+Paraguay,7265309
+Venezuela,28313745
+Dominican Republic,11012791
+Ethiopia,119274005
+Palestine,5280945
+Uruguay,3491984
+Norway,5485502
+Kuwait,4366261
+Mongolia,3358267
+Libya,7012873
+Egypt,105257633
+Honduras,10143256
+Moldova,4019744
+Armenia,2971642
+Kenya,55564610
+Oman,5303201
+Finland,5553772
+Bosnia and Herzegovina,3249866
+Bahrain,1791018
+Latvia,1854565
+Singapore,5920090
+Zambia,19163037
+Qatar,2807805
+Estonia,1327888
+Nigeria,213873203
+North Macedonia,2083244
+Botswana,2423531
+Algeria,45050396
+Zimbabwe,15190741
+Albania,2873032
+Mozambique,32580497
+Uzbekistan,34204134
+Cyprus,1220683
+Montenegro,628187
+Kyrgyzstan,6687254
+Afghanistan,40255681
+Namibia,2610602
+Uganda,47926154
+Ghana,32055097
+El Salvador,6535825
+Cambodia,17069560
+Rwanda,13438210
+Laos,7435521
+Luxembourg,641406
+Cameroon,27546064
+Jamaica,2980764
+Maldives,554965
+Trinidad and Tobago,1406360
+Angola,34412856
+Réunion,904998
+DRC,93680667
+Malawi,19878118
+Senegal,17411716
+Ivory Coast,27367006
+Eswatini,1178370
+Guadeloupe,400228
+Malta,443326
+Suriname,594599
+French Guiana,310399
+Fiji,906293
+Madagascar,28768467
+Syria,18144197
+Martinique,374824
+Cabo Verde,565139
+Sudan,45399180
+Mauritania,4834627
+French Polynesia,283370
+Gabon,2305238
+Guyana,792307
+Iceland,344600
+Papua New Guinea,9203706
+Belize,408561
+Guinea,13671875
+Togo,8572459
+Burundi,12426580
+Channel Islands,176292
+Barbados,287909
+Lesotho,2167992
+Tanzania,62308710
+Mayotte,282779
+Bahamas,398939
+Seychelles,99270
+Curaçao,165110
+Andorra,77452
+Haiti,11613177
+Aruba,107453
+Benin,12603783
+Somalia,16564193
+Mali,21133391
+Mauritius,1274968
+Congo,5723679
+Timor-Leste,1356476
+Burkina Faso,21770665
+Nicaragua,6743997
+Taiwan,23882143
+Tajikistan,9861979
+South Sudan,11392612
+Brunei ,443828
+New Zealand,5002100
+Saint Lucia,184899
+Equatorial Guinea,1472701
+Djibouti,1009769
+Isle of Man,85715
+New Caledonia,289658
+Hong Kong,7589181
+CAR,4956965
+Gambia,2519403
+Cayman Islands,66892
+Yemen,30820549
+Gibraltar,33676
+San Marino,34039
+Eritrea,3620793
+Niger,25531563
+Comoros,897650
+Sierra Leone,8222633
+Grenada,113314
+Dominica,72257
+Bermuda,61929
+Faeroe Islands,49144
+Liberia,5237639
+Guinea-Bissau,2038415
+Liechtenstein,38294
+Sint Maarten,43614
+St. Vincent Grenadines,111474
+Chad,17139046
+Monaco,39664
+Saint Martin,39665
+Antigua and Barbuda,99158
+Sao Tome and Principe,225323
+Caribbean Netherlands,26592
+British Virgin Islands,30536
+Greenland,56919
+Saint Kitts and Nevis,53769
+Turks and Caicos,39511
+Bhutan,784485
+St. Barth,9923
+Anguilla,15206
+Wallis and Futuna,10940
+Saint Pierre Miquelon,5751
+Montserrat,4997
+Falkland Islands,3633
+Macao,662747
+Vatican City,804
+Solomon Islands,712381
+Palau,18225
+Western Sahara,619570
+Vanuatu,318010
+Marshall Islands,59795
+Samoa,200413
+Saint Helena,6104
+Micronesia,116850
+Tonga,107511
+China,1439323776
